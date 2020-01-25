@@ -2,6 +2,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/3e6bb1258cb44162871a655d0eeb6f71)](https://app.codacy.com/manual/analistamarcio/React-Hooks-Learning?utm_source=github.com&utm_medium=referral&utm_content=analistamarcio/React-Hooks-Learning&utm_campaign=Badge_Grade_Dashboard)
+
 In the project directory, you can run:
 
 ### `yarn start`
